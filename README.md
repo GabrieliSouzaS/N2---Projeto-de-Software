@@ -6,6 +6,7 @@ Projeto de Software — Faculdade de Computação e Informática — Mackenzie.
 
 - **Integrantes:**
 - José Maike Ferreira Ferro - 10732694
+- Gabrieli Souza Santos - 10732702
 
 ## O que o sistema faz
 
