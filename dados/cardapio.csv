@@ -1,0 +1,15 @@
+id;nome;categoria;calorias;preferencias;planos
+1;Escondidinho de grão-de-bico;PRATO_PRINCIPAL;450;2|3;*
+2;Salada Caesar vegetariana;PRATO_PRINCIPAL;320;2;*
+3;Risoto de cogumelos;PRATO_PRINCIPAL;480;2;*
+4;Quibe assado;PRATO_PRINCIPAL;390;2;3
+5;Frango grelhado com legumes;PRATO_PRINCIPAL;380;1|3;*
+6;Strogonoff de carne;PRATO_PRINCIPAL;520;1;*
+7;Peixe assado com batatas;PRATO_PRINCIPAL;410;1|3;*
+8;Arroz integral;ACOMPANHAMENTO;130;1|2|3;*
+9;Legumes salteados;ACOMPANHAMENTO;80;1|2|3;*
+10;Farofa;ACOMPANHAMENTO;160;1|2|3;*
+11;Purê de batata;ACOMPANHAMENTO;140;1|2;*
+12;Mousse de maracujá;SOBREMESA;210;1|2;*
+13;Salada de frutas;SOBREMESA;90;1|2|3;*
+14;Pudim de leite;SOBREMESA;250;1|2;*
